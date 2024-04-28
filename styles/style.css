@@ -215,6 +215,14 @@ border: 1px solid #FFFFFF;
   text-decoration: underline;
 }
 
+.button:focus {
+  outline: none;
+}
+
+.button:focus-visible {
+  outline: 1px solid #FFFFFF;
+}
+
 .content__details {
   max-width: 399px;
   display: flex;
