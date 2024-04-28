@@ -43,6 +43,7 @@ ol {
   justify-content: center;
   column-gap: 30px;
   max-width: 1140px;
+  padding-top: 133px;
 }
 
 .result {
